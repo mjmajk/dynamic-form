@@ -1,1 +1,1 @@
-# dynamic-form
+for install just run  ```yarn``` and ```yarn dev```
